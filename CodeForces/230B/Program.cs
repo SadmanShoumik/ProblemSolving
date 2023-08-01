@@ -1,4 +1,4 @@
-﻿bool[] prime = new bool[5000001];
+bool[] prime = new bool[5000001];
 void sieve()
 {
     prime[0] = true;
@@ -24,15 +24,24 @@ var obj = s.Split(" ");
 
 int x;
 long n;
+int count;
+int kekc, kekf;
 
 for(x=0; x<k; x++)
 {
-    n = int.Parse(obj[x]);
+    n = long.Parse(obj[x]);
 
-    if(n<5000001)
+    kekc = (int)Math.Ceiling(Math.Sqrt(n));
+    kekf = (int)Math.Floor(Math.Sqrt(n));
+
+    if(kekc!=kekf)
+        Console.WriteLine("NO");
+    else
     {
-        if (prime[n] == false)
+        if (prime[kekf]==false)
+            Console.WriteLine("YES");
+        else
             Console.WriteLine("NO");
-
     }
+
 }
