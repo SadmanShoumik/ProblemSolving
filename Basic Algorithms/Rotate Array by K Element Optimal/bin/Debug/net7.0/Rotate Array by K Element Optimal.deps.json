@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Rotate Array by K Element Optimal/1.0.0": {
+        "runtime": {
+          "Rotate Array by K Element Optimal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rotate Array by K Element Optimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
