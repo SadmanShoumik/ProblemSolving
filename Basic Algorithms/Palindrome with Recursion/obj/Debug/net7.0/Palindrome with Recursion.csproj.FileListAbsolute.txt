@@ -1,0 +1,15 @@
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\bin\Debug\net7.0\Palindrome with Recursion.exe
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\bin\Debug\net7.0\Palindrome with Recursion.deps.json
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\bin\Debug\net7.0\Palindrome with Recursion.runtimeconfig.json
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\bin\Debug\net7.0\Palindrome with Recursion.dll
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\bin\Debug\net7.0\Palindrome with Recursion.pdb
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.csproj.AssemblyReference.cache
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.AssemblyInfoInputs.cache
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.AssemblyInfo.cs
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.csproj.CoreCompileInputs.cache
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.dll
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\refint\Palindrome with Recursion.dll
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.pdb
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\Palindrome with Recursion.genruntimeconfig.cache
+E:\Projects and Programs\C# Practice\Assignment01\Palindrome with Recursion\obj\Debug\net7.0\ref\Palindrome with Recursion.dll
