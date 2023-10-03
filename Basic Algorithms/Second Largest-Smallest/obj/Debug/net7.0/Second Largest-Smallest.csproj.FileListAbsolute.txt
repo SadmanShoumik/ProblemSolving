@@ -1,0 +1,15 @@
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\bin\Debug\net7.0\Second Largest-Smallest.exe
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\bin\Debug\net7.0\Second Largest-Smallest.deps.json
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\bin\Debug\net7.0\Second Largest-Smallest.runtimeconfig.json
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\bin\Debug\net7.0\Second Largest-Smallest.dll
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\bin\Debug\net7.0\Second Largest-Smallest.pdb
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.csproj.AssemblyReference.cache
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.AssemblyInfoInputs.cache
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.AssemblyInfo.cs
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.csproj.CoreCompileInputs.cache
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.dll
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\refint\Second Largest-Smallest.dll
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.pdb
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\Second Largest-Smallest.genruntimeconfig.cache
+E:\Projects and Programs\C# Practice\Assignment01\Second Largest-Smallest\obj\Debug\net7.0\ref\Second Largest-Smallest.dll
